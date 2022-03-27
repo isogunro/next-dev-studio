@@ -4,10 +4,10 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "HUMIH has more than 20 years of experience in software development including platforms such as Office 365.  We pride ourselves in building solutions using the power platform (Power Apps, Power Automate and Power BI), to build solutions that help our cutomers be more efficient in their day to day activities."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "HUMIH offers consulting services in the Microsoft 365 online products such as Power Apps, Power Automate, Power BI, Microsoft Forms, etc."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
@@ -18,6 +18,6 @@ values:
     buttonText: Read more
     buttonLink: /values
     image: img/home-about-section.jpg
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Our values are what makes us who we are.  We believe in "Loyalty", "Accountability", "Honesty", "Respect", "Hardwork", just to name a few. With these values, we are able to **HU**stle, and **M**ake **I**t **H**appen.
 ---
 
